@@ -3,7 +3,7 @@ import Menu from './Menu'
 function Header() {
   return (
     <header className="header">
-      <h1>Pixel Arena</h1>
+      <h1>KILLER JOGOS</h1>
       <Menu />
     </header>
   )
